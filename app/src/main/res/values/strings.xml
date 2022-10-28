@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ejercicio1.3</string>
+    <string name="codigo">CODIGO</string>
+    <string name="apellidos">APELLIDOS</string>
+    <string name="edad">EDAD</string>
+    <string name="correo_electronico">CORREO ELECTRONICO</string>
+    <string name="direccion">DIRECCION</string>
+    <string name="regresar">REGRESAR</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="actualizar">ACTUALIZAR</string>
+    <string name="regresard">Regresar</string>
+    <string name="sleccione_si_desea_eliminar_o_editar_la_lista">SLECCIONE SI DESEA ELIMINAR O EDITAR LA LISTA</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="apellidoss">APELLIDOS</string>
+    <string name="regresarr">REGRESAR</string>
+    <string name="edadd">EDAD</string>
+    <string name="correoelectronico">CORREO ELECTRONICO</string>
+    <string name="direccionn">DIRECCION</string>
+    <string name="direcciones">DIRECCION</string>
+</resources>
